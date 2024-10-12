@@ -1,3 +1,5 @@
+This Package developed based on this article (This)[https://filamentphp.com/content/leandrocfe-navigating-filament-pages-with-previous-and-next-buttons]
+
 # Navigation Buttons
 
 **Navigation Buttons** is a simple Laravel package for adding "Previous" and "Next" navigation buttons to Filament resource pages, allowing users to navigate between records easily.
