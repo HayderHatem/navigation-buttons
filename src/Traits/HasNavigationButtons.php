@@ -8,12 +8,12 @@ trait HasNavigationButtons
 {
     protected function getOrderColumn(): string
     {
-        return config('filament-navigation-buttons.order_column', 'id');
+        return config('navigation-buttons.order_column', 'id');
     }
 
     protected function getOrderDirection(): string
     {
-        return config('filament-navigation-buttons.order_direction', 'asc');
+        return config('navigation-buttons.order_direction', 'asc');
     }
 
     protected function getPreviousRecord()
