@@ -1,4 +1,4 @@
-This Package developed based on this article (This)[https://filamentphp.com/content/leandrocfe-navigating-filament-pages-with-previous-and-next-buttons]
+This Package developed based on this article [https://filamentphp.com/content/leandrocfe-navigating-filament-pages-with-previous-and-next-buttons]
 
 # Navigation Buttons
 
