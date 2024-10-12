@@ -1,0 +1,29 @@
+# Composer dependencies
+/vendor
+
+# Laravel environment files
+.env
+
+# Node modules
+/node_modules
+
+# Laravel generated files
+/storage/*.key
+/public/storage
+/storage/logs
+/storage/framework/cache
+/storage/framework/sessions
+/storage/framework/views
+
+# Cache, logs, and compiled files
+/bootstrap/cache
+*.log
+*.cache
+
+# IDE files
+/.idea
+/.vscode
+
+# OS generated files
+.DS_Store
+Thumbs.db

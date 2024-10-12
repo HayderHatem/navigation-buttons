@@ -1,0 +1,29 @@
+{
+    "name": "hayder/navigation-buttons",
+    "description": "A Filament plugin to add previous and next navigation buttons to resource pages.",
+    "type": "library",
+    "require": {
+      "php": "^8.0",
+      "filament/filament": "^3.2",
+      "spatie/laravel-package-tools": "^1.16"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hayder\\NavigationButtons\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hayder Hatem",
+            "email": "dev.hayder@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+          "providers": [
+            "Hayder\\NavigationButtons\\NavigationButtonsServiceProvider"
+          ]
+        }
+      }
+}
